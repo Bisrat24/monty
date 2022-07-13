@@ -1,4 +1,4 @@
-#include "header.h"
+#include "monty.h"
 /**
  * add - Adds the top two elements of the stack.
  * @stack: Pointer to a pointer pointing to top node of the stack.
